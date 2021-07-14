@@ -86,7 +86,7 @@ export class BaseHub extends EventEmitter {
      * @property {string} name Name of the hub
      */
     public get name () {
-        return this._bleDevice.name;
+        return this._bleDevice.connecting;
     }
 
 
