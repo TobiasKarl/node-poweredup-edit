@@ -1,5 +1,5 @@
 {
-  "name": "node-poweredup",
+  "name": "node-poweredup-edit",
   "version": "4.2.1",
   "description": "A Javascript module to interface with LEGO Powered Up components.",
   "homepage": "https://github.com/nathankellenicki/node-poweredup/",
